@@ -13,7 +13,8 @@
  	 	cin>>Address; 
  	 	cout<<"\nEnter ID of the Employee : "; 
  	 	cin>>Emp_id; 
- 	 	cout<<"\nEnter Mobile Number : ";  	 	cin>>Mobile_no; 
+ 	 	cout<<"\nEnter Mobile Number : ";  	 	
+		cin>>Mobile_no; 
  	 	cout<<"\nEnter E-Mail ID of the Employee : "; 
  	 	cin>>Mail_id; 
  	} 
